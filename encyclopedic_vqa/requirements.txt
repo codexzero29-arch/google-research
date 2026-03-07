@@ -8,3 +8,4 @@ scipy==1.11.1
 tensorflow==2.12.1
 tensorflow_hub==0.13.0
 tensorflow_text==2.12.0
+
