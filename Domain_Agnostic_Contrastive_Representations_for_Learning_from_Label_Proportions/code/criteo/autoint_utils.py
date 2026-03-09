@@ -198,3 +198,4 @@ class AutoInt:
       out_layer = Dense(1, activation='sigmoid')(x)
       return Model(self.dense_inputs+ self.sparse_inputs, out_layer)
     return
+		
